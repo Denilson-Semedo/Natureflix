@@ -68,10 +68,6 @@
     {
       "titulo": "Aquecimento Global",
       "cor": "#ffe75e",
-      "link_extra": {
-        "text": "Aquecimento global | Fantástico 12/05/2019",
-        "url": "https://www.youtube.com/watch?v=eUTCyAlrQX0"
-      },
       "videos": [
         {
           "titulo": "DOC | Breakthrough | Crise Climática",
@@ -116,10 +112,6 @@
     {
       "titulo": "Animais em perigo",
       "cor": "red",
-      "link_extra": {
-        "text": "A 6ª EXTINÇÃO em MASSA começou!!!",
-        "url": "https://youtu.be/o3pwT0DSJX4"
-      },
       "videos": [
         {
           "titulo": "Recently Extinct Animals",
