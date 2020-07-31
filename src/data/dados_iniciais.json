@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Ocean",
+      "titulo": "Oceanos",
       "link": "https://www.youtube.com/watch?v=Em9mlK45rP0&t=50s",
       "cor": "#6BD1FF",
       "videos": [
@@ -10,62 +10,58 @@
           "url": "https://www.youtube.com/watch?v=pvuN_WvF1to"
         },
         {
-          "titulo": "SEO com React",
+          "titulo": "Our Planet | High Seas | FULL EPISODE | Netflix",
+          "url": "https://youtu.be/9FqwhW0B3tY"
+        },
+        {
+          "titulo": "Our Planet | Coastal Seas | FULL EPISODE | Netflix",
+          "url": "https://www.youtube.com/watch?v=r9PeYPHdpNo"
+        },
+        {
+          "titulo": "Our Planet | Frozen Worlds | FULL EPISODE | Netflix",
+          "url": "https://www.youtube.com/watch?v=cTQ3Ko9ZKg8"
+        }, 
+        {
+          "titulo": "One Breath Around The World",
+          "url": "https://www.youtube.com/watch?v=OnvQggy3Ezw"
+        },    
+        {
+          "titulo": "Best Ocean Life 2020: Amazing Underwater Marine Life Documentary 2020",
           "url": "https://www.youtube.com/watch?v=Em9mlK45rP0&t=50s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
+          "titulo": "Secret Life in Oceans - Ocean Monsters (Documentary)",
           "url": "https://www.youtube.com/watch?v=CrJtPnekaoY"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "titulo": "Ocean life - Full of beautiful creatures.",
           "url": "https://www.youtube.com/watch?v=CmMbgRU-EKI"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=OnvQggy3Ezw"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=G52dUQLxPzg"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }   
       ]
     },
     {
-      "titulo": "Forest",
+      "titulo": "Florestas",
       "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Our Planet | Forests | FULL EPISODE | Netflix",
+          "url": "https://youtu.be/JkaxUblCGz0"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Our Planet | Jungles | FULL EPISODE | Netflix",
+          "url": "https://www.youtube.com/watch?v=um2Q9aUecy0"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "The Carpathians - Europe's Only True Wilderness",
+          "url": "https://www.youtube.com/watch?v=OMdzcq_HaF4&t=83s"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "How to grow a forest in your backyard | Shubhendu Sharma",
+          "url": "https://www.youtube.com/watch?v=mjUsobGWhs8"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Planting Better Forests for a Changing Future",
+          "url": "https://www.youtube.com/watch?v=nqGXYz5Sln4"
         }
       ]
     },
@@ -73,25 +69,25 @@
       "titulo": "Aquecimento Global",
       "cor": "#ffe75e",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Aquecimento global | Fantástico 12/05/2019",
+        "url": "https://www.youtube.com/watch?v=eUTCyAlrQX0"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "DOC | Breakthrough | Crise Climática",
+          "url": "https://youtu.be/qFMuIU3mBBs"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Climate Change Explained",
+          "url": "https://www.youtube.com/watch?v=ifrHogDujXw"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Global Warming The Future - Full Documentary 2019 HD",
+          "url": "https://www.youtube.com/watch?v=uOMRF7t5Vn0"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Documentário sobre o Aquecimento Global - Seremos História? Legendado PT-BR",
+          "url": "https://www.youtube.com/watch?v=E9jmHBzh-yc"
         }
       ]
     },
@@ -100,20 +96,20 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Air Pollution 101 | National Geographic",
+          "url": "https://www.youtube.com/watch?v=e6rglsLy1Ys"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "The Devastating Effects of Pollution in China (Part 1/2)",
+          "url": "https://www.youtube.com/watch?v=q4DtOhe2LfQ"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Plastic pollution crisis: How waste ends up in our oceans",
+          "url": "https://www.youtube.com/watch?v=MNFUwVcpZAI"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "POWERFUL VIDEO: Why We Need to Stop Plastic Pollution in Our Oceans FOR GOOD | Oceana",
+          "url": "https://youtu.be/Yomf5pBN8dY"
         }
       ]
     },
@@ -121,59 +117,81 @@
       "titulo": "Animais em perigo",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "A 6ª EXTINÇÃO em MASSA começou!!!",
+        "url": "https://youtu.be/o3pwT0DSJX4"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Recently Extinct Animals",
+          "url": "https://www.youtube.com/watch?v=dVHWYaREwLE"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Polar Bears & Climate Change",
+          "url": "https://www.youtube.com/watch?v=LtibE0tm5t8"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "How Does Global Warming Affect Animals? | Earth Unplugged",
+          "url": "https://youtu.be/btuI6UtllNE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "TURTLE RESCUE AT SEA & PLASTIC POLLUTION [Side Adventure #11]",
+          "url": "https://www.youtube.com/watch?v=PP4-9blkR-E"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "The Worst Effects of Pollution On Animals!",
+          "url": "https://youtu.be/yWruRsDGtv0"
         }
       ]
     },
     {
-      "titulo": "Reciclagem",
+      "titulo": "Salvar o planeta",
       "cor": "#85ef47",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "How to Save Our Planet",
+          "url": "https://www.youtube.com/watch?v=0Puv0Pss33M"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo":"How Garbage Is Recycled At The US' Largest Recycling Facility",
+          "url": "https://www.youtube.com/watch?v=L2Rc8oTOtd8"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "50 Minutes to Save the World",
+          "url": "https://youtu.be/wthTmQHmuZ0"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "4 Ways To Fight Climate Change",
+          "url": "https://www.youtube.com/watch?v=PsDY2WgvdCk&list=PLtY1iLdia2Ryuiho2ZPWtxk8M7ShVSe1X&index=4"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "THE FUTURE I BELIEVE IN",
+          "url": "https://youtu.be/SsZSCAtQ85s?list=PLtY1iLdia2Ryuiho2ZPWtxk8M7ShVSe1X"
+        },
+        {
+          "titulo": "Our Planet: How to Save Our High Seas",
+          "url": "https://www.youtube.com/watch?v=H6gEnj4_lGk"
+        }
+      ]
+    },
+    {
+      "titulo": "Ativistas",
+      "cor": "#85ef47",
+      "videos": [
+        {
+          "titulo": "Dear Future Generations: Sorry",
+          "url": "https://youtu.be/eRLJscAlk1M?list=PLtY1iLdia2Ryuiho2ZPWtxk8M7ShVSe1X"
+        },
+        {
+          "titulo":"MAN vs EARTH",
+          "url": "https://www.youtube.com/watch?v=VrzbRZn5Ed4&list=PLtY1iLdia2Ryuiho2ZPWtxk8M7ShVSe1X&index=2"
+        },
+        {
+          "titulo": "School strike for climate - save the world by changing the rules | Greta Thunberg | TEDxStockholm",
+          "url": "https://www.youtube.com/watch?v=EAmmUIEsN9A"
+        },
+        {
+          "titulo": "Histórias Climáticas: Relatos verdadeiros de ativistas ambientais e defensores dos direitos humanos",
+          "url": "https://www.youtube.com/watch?v=GHiZEc7JLqY"
         }
       ]
     }
