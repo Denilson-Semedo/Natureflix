@@ -1,7 +1,7 @@
 import React from 'react';
-import  
+import PropTypes from 'prop-types';
 
-function FormField({ label, type, name, value, onChange }) {
+function FormField ({ label, type, name, value, onChange }) {
   return (
     <div>
       <label>
@@ -15,6 +15,14 @@ function FormField({ label, type, name, value, onChange }) {
       </label>
     </div>
   )
+}
+
+FormField.propTypes = {
+  label: PropTypes.string.isRequired,
+  type, 
+  name, 
+  value, 
+  onChange, 
 }
 
 export default FormField;
